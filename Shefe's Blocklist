@@ -1,0 +1,12 @@
+{
+  "name": "Shefe's Blocklist",
+  "description": "Blocks YouTube/Twitch ads, annoyances, IP grabbers and malicious trackers.",
+  "viewUrl": "",
+  "syntax": "adblock",
+  "languages": ["en"],
+  "tags": ["ads", "youtube", "twitch", "malware", "privacy"],
+  "maintainer": {
+    "name": "Бате Шефе",
+    "url": "https://github.com/ТВОЯ_ЮЗЪР"
+  }
+}
