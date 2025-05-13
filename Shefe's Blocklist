@@ -1,12 +1,12 @@
 {
   "name": "Shefe's Blocklist",
   "description": "Blocks YouTube/Twitch ads, annoyances, IP grabbers and malicious trackers.",
-  "viewUrl": "",
-  "syntax": "adblock",
+  "viewUrl": "https://raw.githubusercontent.com/Brembo19/Massive-AdGuard-Filter-for-YouTube-Twitch-Annoyances-Trackers-and-IP-Loggers-/refs/heads/main/Massive%20AdGuard%20Filter%20for%20YouTube%2C%20Twitch%2C%20Annoyances%2C%20Trackers%2C%20and%20IP%20Loggers.txt",
+  "syntax": "adblock",adguardaccount
   "languages": ["en"],
   "tags": ["ads", "youtube", "twitch", "malware", "privacy"],
   "maintainer": {
-    "name": "Бате Шефе",
-    "url": "https://github.com/ТВОЯ_ЮЗЪР"
+    "name": "Brembo",
+    "url": "https://github.com/Brembo19"
   }
 }
